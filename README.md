@@ -7,7 +7,7 @@
   - Introduction to Ruby via Codecademy
 
 🌱 I’m currently studying: 
-  - Introduction to Web Development with Code First Girls
-  - Microsoft Azure Developer Associate (AZ-204) certification via Firebrand Bootcamp
+  - Java
+  - React
   
 📫 Connect with me on LinkedIn here: www.linkedin.com/in/jen-chap
